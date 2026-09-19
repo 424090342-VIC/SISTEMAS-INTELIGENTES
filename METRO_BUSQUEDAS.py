@@ -1,7 +1,5 @@
 """
-Metro de la CDMX modelado como grafo no dirigido.
-Rutas calculadas con BFS y DFS usando costo unitario
-(moverse de una estación a la siguiente cuesta 1).
+Metro de la CDMX
 """
 
 from collections import deque
